@@ -11,3 +11,7 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+![image1](https://github.com/Jigsaw-23122002/NFT-Introduction/blob/main/Img1.png)
+
+![image2](https://github.com/Jigsaw-23122002/NFT-Introduction/blob/main/Img2.png)
